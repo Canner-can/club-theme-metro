@@ -1,0 +1,60 @@
+{
+    "layout": "./index.hbs",
+    "data": {
+        "title": "生態旅遊研究社",
+        "website": "http://www.canner.io",
+        "news": {
+            "title": "最新消息",
+            "posts": [
+                {
+                    "title": "7/25 - 7/31",
+                    "content": "暑假集訓，有豐富的活動、食物，等著大家參與唷！"
+                },
+                {
+                    "title": "6/30",
+                    "content": "晚上揪團吃飯"
+                }
+
+            ]
+        },
+        "about": {
+            "title": "關於我們",
+            "content": "本社團成立於2010年，固定社課時間為星期三..."
+        },
+        "contact": {
+            "title": "聯絡我們 ",
+            "email": "club@mail.com",
+            "facebook": "https://www.test.com"
+        },
+        "photos": {
+            "links": [
+                { 
+                    "link": "http://lorempixel.com/580/250/nature/1"
+                },
+                {
+                    "link": "http://lorempixel.com/580/250/nature/2"
+                },
+                {
+                    "link": "http://lorempixel.com/580/250/nature/1"
+                }
+            ]
+        },
+        "footer": {
+            "title": "Footer Content",
+            "description": "You can use rows and columns here to organize your footer content."
+        },
+        "relatedLinks": {
+            "title": "相關連結",
+            "links": [
+                {
+                    "title": "Google",
+                    "url": "http://www.google.com"
+                },
+                 {
+                    "title": "Yahoo",
+                    "url": "http://tw.yahoo.com"
+                }
+            ]
+        }
+    }   
+}
